@@ -1,2 +1,2 @@
 # MyImprovement_1
-This repository is created to share the improvements. 
+This is created to explain the STOMA(Oral) Care Sensors  
